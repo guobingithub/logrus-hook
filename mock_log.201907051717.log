@@ -1,0 +1,3 @@
+{"age":18,"file":"logmock/mock.go:50","level":"error","msg":"A group of walrus emerges from the ocean","name":"tony","sex":1,"time":"2019-07-05T17:17:01+08:00"}
+{"age":18,"file":"logmock/mock.go:50","level":"error","msg":"A group of walrus emerges from the ocean","name":"tony","sex":1,"time":"2019-07-05T17:17:06+08:00"}
+{"age":18,"file":"logmock/mock.go:50","level":"error","msg":"A group of walrus emerges from the ocean","name":"tony","sex":1,"time":"2019-07-05T17:17:11+08:00"}
